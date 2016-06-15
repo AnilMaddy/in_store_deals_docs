@@ -20,6 +20,7 @@ sample sites
 
 - `cupondunia - All cupons <http://www.coupondunia.in/>`_
 - `savemyrupee - All cupons <http://www.savemyrupee.com/>`_
+- 'maddycoupons - All Coupons <http://www.maddycoupons.in/>'_
   It has wish list, if you give an item, they will find lowest price for you
    
 
